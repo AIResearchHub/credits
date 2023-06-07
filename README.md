@@ -1,4 +1,4 @@
-# credits
+# Credits
 
 Keep track of everyone's contributions
 
